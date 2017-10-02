@@ -5,7 +5,7 @@ This way it is possible to pass an application with user-defined transparencies 
 
 Installation Guide
 ------------------
-**Requirement: map.apps 3.8.0**
+**Requirement: map.apps @^3.1.4**
 
 To generate the URL with the layer transparency add the ```parametermanager``` bundle.
 

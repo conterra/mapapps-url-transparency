@@ -1,21 +1,21 @@
 {
     "properties": {
-        "amdPackages": "apprt@^3.8.0"
+        "amdPackages": "apprt@^3.1.4"
     },
     "load": {
         "bundleLocations": ["localbundles", "bundles"],
 
         "allowedBundles": [
-            "system@^3.8.0",
-            "console@^3.x",
-            "splashscreen@^3.8.0",
-            "map@^3.8.0",
-            "templatelayout@^3.8.0",
-            "toolset@^3.8.0",
-            "basemaptoggler@^3.8.0",
+            "system@^3.1.4",
+            "console@^3.1.4",
+            "splashscreen@^3.1.4",
+            "map@^3.1.4",
+            "templatelayout@^3.1.4",
+            "toolset@^3.1.4",
+            "basemaptoggler@^3.1.4",
             "dn_urltransparency",
-            "parametermanager@^3.8.0",
-            "mapflow@^3.x"
+            "parametermanager@^3.1.4",
+            "mapflow@^3.1.4"
         ]
     },
 
