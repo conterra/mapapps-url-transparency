@@ -15,6 +15,7 @@
             "basemaptoggler@^3.1.4",
             "dn_urltransparency",
             "parametermanager@^3.1.4",
+            "banner@^3.x",
             "mapflow@^3.1.4"
         ]
     },
@@ -243,6 +244,14 @@
                     "relativeItemPosition": "top center",
                     "visibleItems": 3
                 }
+            }
+        },
+        "banner": {
+            "BannerWidget": {
+                "label": "Developer Network",
+                "image": "https://www.conterra.de/~/media/conterra/images/site_logos/conterra-logo.ashx",
+                "imagePosition": "above",
+                "link": "http://developernetwork.conterra.de"
             }
         },
         "parametermanager": {
