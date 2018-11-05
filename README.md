@@ -3,6 +3,8 @@ This bundle passes the tranparency settings of layers via the URL. For all opera
 change the opacity a URL extension will be generated. 
 This way it is possible to pass an application with user-defined transparencies of layers. 
 
+❗️ This bundle is no longer needed for map.apps line 4 apps. From map.apps 4.5.0 on, transferring transparency set by a user, is a map.apps core functionality. ❗️
+
 Installation Guide
 ------------------
 **Requirement: map.apps @^3.1.4**
