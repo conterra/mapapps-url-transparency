@@ -13,11 +13,6 @@ To generate the URL with the layer transparency add the ```parametermanager``` b
 
 No special configuration needed. Just add the bundle to the app.json.
 
-Sample App
-------------------
-
-https://demos.conterra.de/mapapps/resources/apps/downloads_urltransparency 
-
 Development Guide
 ------------------
 ### Define the mapapps remote base
